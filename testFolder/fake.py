@@ -6,6 +6,7 @@ var2 = '2'
 var3 = [1,2,3]
 
 var4 = { 
-    'firstName' : 'stephen'
+    'firstName' : 'stephen', 
+    'lastName': 'sanchez', 
 
 }
