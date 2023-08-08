@@ -1,4 +1,4 @@
-def additon(var1, var2) : 
+def addition(var1, var2) : 
     output = var1 + var2 
     return output 
 
